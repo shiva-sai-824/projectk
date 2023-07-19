@@ -8,7 +8,7 @@ flatbuffers==23.3.3
 h11==0.14.0
 idna==3.4
 libclang==16.0.6
-numpy==1.23.5
+numpy==1.21.6
 oauthlib==3.2.2
 packaging==23.1
 platformdirs==3.5.1
